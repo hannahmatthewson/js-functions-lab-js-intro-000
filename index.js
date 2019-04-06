@@ -12,3 +12,9 @@ function happyHolidayTo(holiday, name) {
   var holiday = "Christmas";
   var name = "Michael";
 }
+function holidayCountdown(holiday, days) {
+   return `It's ${days} days until ${holiday}!`;
+
+   var holiday = "Christmas";
+   var days = "12";
+}
